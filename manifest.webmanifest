@@ -1,0 +1,17 @@
+{
+  "name": "Покер на костях",
+  "short_name": "Кости",
+  "description": "Покер на костях: карьера в таверне, партии с ботами и игра по сети",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#100a07",
+  "theme_color": "#100a07",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
