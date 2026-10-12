@@ -7,5 +7,5 @@ window.DICE_CONFIG = {
 
   // Ссылка на мини-приложение в Telegram — для кнопки «Позвать из Telegram».
   // Друг откроет её и сразу сядет за ваш стол. Пример: 'https://t.me/MyDiceBot/play'
-  telegramLink: '',
+  telegramLink: 't.me/vedymak_kosti_bot/hervant',
 };
