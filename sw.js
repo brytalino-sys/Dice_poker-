@@ -1,7 +1,7 @@
 // Офлайн-режим: сначала сеть (всегда свежая версия), без сети — сохранённая копия.
 // Сетевую игру (адреса /ws и /api/) не трогаем.
 
-const CACHE = 'dicepoker-cb7ef7a86c';
+const CACHE = 'dicepoker-fea9ad546e';
 const CORE = [
   './', 'index.html', 'game.js', 'style.css', 'fonts.css', 'config.js', 'favicon.svg',
   'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png',
